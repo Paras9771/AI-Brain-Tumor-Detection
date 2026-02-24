@@ -1,5 +1,5 @@
 streamlit
-numpy==1.26.4
+numpy
 pandas
 opencv-python-headless
 tensorflow==2.15.0
@@ -8,4 +8,3 @@ matplotlib
 scikit-learn
 gdown
 reportlab
-python-3.10.13
