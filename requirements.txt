@@ -1,0 +1,10 @@
+streamlit
+numpy==1.26.4
+pandas
+opencv-python-headless
+tensorflow-cpu==2.15.0
+Pillow
+matplotlib
+scikit-learn
+gdown
+reportlab

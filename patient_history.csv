@@ -1,0 +1,42 @@
+Patient ID,Date,Time,Patient Name,Age,Gender,Doctor Name,Hospital Name,Model Used,Confidence,Risk,Tumor Area
+PAT-716135,10-01-2026,12:12,Paras,25,Male,Anil,M.K,CNN - Tumor Classification,94.12,🔴 HIGH RISK,
+PAT-295103,10-01-2026,12:14,Paras,1,Male,Anil,M.K,CNN - Tumor Classification,94.12,🔴 HIGH RISK,
+PAT-295103,10-01-2026,12:14,Paras,1,Male,Anil,M.K,CNN - Tumor Classification,94.12,🔴 HIGH RISK,
+PAT-156815,10-01-2026,12:15,Paras,1,Male,Anil,M.K,CNN - Tumor Classification,94.12,🔴 HIGH RISK,
+PAT-981435,10-01-2026,12:26,Paras,1,Male,Anil,M.K,CNN - Tumor Classification,94.12,🔴 HIGH RISK,,"{'Accuracy': '92%', 'Precision': '90%', 'Recall': '88%', 'F1-Score': '89%'}"
+PAT-981435,10-01-2026,12:26,Paras,1,Male,Anil,M.K,U-Net - Tumor Segmentation,,,50.43,"{'Dice Coefficient': '0.87', 'IoU': '0.81'}"
+PAT-981435,10-01-2026,12:26,Paras,1,Male,Anil,M.K,Attention U-Net - Advanced Segmentation,,,0.4,"{'Dice Coefficient': '0.90', 'IoU': '0.85'}"
+PAT-729909,10-01-2026,12:32,Paras,1,Male,Mk,dss,CNN - Tumor Classification,94.12,🔴 HIGH RISK,,"{'Accuracy': '92%', 'Precision': '90%', 'Recall': '88%', 'F1-Score': '89%'}"
+PAT-297137,10-01-2026,12:36,Paras,1,Male,Mk,dss,CNN - Tumor Classification,94.12,🔴 HIGH RISK,,"{'Accuracy': '92%', 'Precision': '90%', 'Recall': '88%', 'F1-Score': '89%'}"
+PAT-502322,10-01-2026,12:38,Paras,1,Male,Mk,dss,CNN - Tumor Classification,94.12,🔴 HIGH RISK,,"{'Accuracy': '92%', 'Precision': '90%', 'Recall': '88%', 'F1-Score': '89%'}"
+PAT-191639,10-01-2026,12:38,Paras,1,Male,Anil,M.K,CNN - Tumor Classification,94.12,🔴 HIGH RISK,
+PAT-398525,10-01-2026,12:43,Paras,1,Male,Mk,dss,CNN - Tumor Classification,94.12,HIGH,,"{'Accuracy': '92%', 'Precision': '90%', 'Recall': '88%', 'F1-Score': '89%'}"
+PAT-307108,10-01-2026,12:47,Paras,1,Male,anil,dk,CNN - Tumor Classification,92%,94.12,🔴 HIGH RISK,
+PAT-307108,10-01-2026,12:47,Paras,1,Male,anil,dk,U-Net - Tumor Segmentation,89%,,,50.43
+PAT-307108,10-01-2026,12:47,Paras,1,Male,anil,dk,Attention U-Net - Advanced Segmentation,91%,,,0.4
+PAT-744383,11-01-2026,10:50,Paras,1,Male,anil,dk,CNN - Tumor Classification,92%,98.02,🔴 HIGH RISK,
+PAT-864121,15-01-2026,11:13,Paras,25,Male,anil,dk,U-Net - Tumor Segmentation,89%,,,51.97
+PAT-864121,15-01-2026,11:13,Paras,25,Male,anil,dk,CNN - Tumor Classification,92%,0.0,🟢 LOW RISK,
+PAT-864121,15-01-2026,11:13,Paras,25,Male,anil,dk,Attention U-Net - Advanced Segmentation,91%,,,0.0
+PAT-864121,15-01-2026,11:13,Paras,25,Male,anil,dk,SRGAN - Image Enhancement,N/A (Image Enhancement Model),,,
+PAT-941593,16-01-2026,12:08,Paras,1,Male,anil,dk,SRGAN - Image Enhancement,N/A (Image Enhancement Model),,,
+PAT-941593,16-01-2026,12:08,Paras,1,Male,anil,dk,Attention U-Net - Advanced Segmentation,91%,,,0.0
+PAT-941593,16-01-2026,12:08,Paras Tomar,25,Male,Dr. Anil Sharma,"Kalavati Hospital, Delhi",U-Net - Tumor Segmentation,89%,,,51.97
+PAT-457028,16-01-2026,01:12,Paras Tomar,25,Male,Dr. Anil Sharma,"Kalavati Hospital, Delhi",U-Net - Tumor Segmentation,89%,,,51.97
+PAT-862911,16-01-2026,11:15,Paras Tomar,25,Male,Dr. Anil Sharma,"Kalavati Hospital, Delhi",CNN - Tumor Classification,92%,94.12,🔴 HIGH RISK,
+PAT-862911,16-01-2026,11:15,Paras Tomar,25,Male,Dr. Anil Sharma,"Kalavati Hospital, Delhi",CNN - Tumor Classification,92%,94.12,🔴 HIGH RISK,
+PAT-398662,18-01-2026,08:23,Paras Tomar,25,Male,Dr. Anil Sharma,"Kalavati Hospital, Delhi",CNN - Tumor Classification,92%,0.0,🟢 LOW RISK,
+PAT-398662,18-01-2026,08:23,Paras Tomar,25,Male,Dr. Anil Sharma,"Kalavati Hospital, Delhi",CNN - Tumor Classification,92%,94.12,🔴 HIGH RISK,
+PAT-398662,18-01-2026,08:23,Paras Tomar,25,Male,Dr. Anil Sharma,"Kalavati Hospital, Delhi",Attention U-Net - Advanced Segmentation,91%,,,0.4
+PAT-398662,18-01-2026,08:23,Paras Tomar,25,Male,Dr. Anil Sharma,"Kalavati Hospital, Delhi",U-Net - Tumor Segmentation,89%,,,50.43
+PAT-398662,18-01-2026,08:23,Paras Tomar,25,Male,Dr. Anil Sharma,"Kalavati Hospital, Delhi",Attention U-Net - Advanced Segmentation,91%,,,0.4
+PAT-878527,20-01-2026,02:06,khushboo,21,Female,Dr. Anil Sharma,"Kalavati Hospital, Delhi",CNN - Tumor Classification,92%,94.12,🔴 HIGH RISK,
+PAT-878527,20-01-2026,02:06,khushboo,21,Female,Dr. Anil Sharma,"Kalavati Hospital, Delhi",U-Net - Tumor Segmentation,89%,,,50.43
+PAT-878527,20-01-2026,02:06,khushboo,21,Female,Dr. Anil Sharma,"Kalavati Hospital, Delhi",Attention U-Net - Advanced Segmentation,91%,,,0.4
+PAT-953532,24-01-2026,09:23,khushbo,25,Female,Dr. Anil Sharma,"Kalavati Hospital, Delhi",CNN - Tumor Classification,92%,0.0,🟢 LOW RISK,
+PAT-953532,24-01-2026,09:23,khushbo,25,Female,Dr. Anil Sharma,"Kalavati Hospital, Delhi",CNN - Tumor Classification,92%,94.12,🔴 HIGH RISK,
+PAT-953532,24-01-2026,09:23,khushbo,25,Female,Dr. Anil Sharma,"Kalavati Hospital, Delhi",U-Net - Tumor Segmentation,89%,,,50.43
+PAT-953532,24-01-2026,09:23,khushbo,25,Female,Dr. Anil Sharma,"Kalavati Hospital, Delhi",Attention U-Net - Advanced Segmentation,91%,,,0.4
+PAT-953532,24-01-2026,09:23,khushbo,25,Female,Dr. Anil Sharma,"Kalavati Hospital, Delhi",SRGAN - Image Enhancement,N/A (Image Enhancement Model),,,
+PAT-602460,25-02-2026,12:06,Paras Tomar,23,Male,Dr. Anil Sharma,"Kalavati Hospital, Delhi",CNN - Tumor Classification,92%,0.0,🟢 LOW RISK,
+PAT-602460,25-02-2026,12:06,Paras Tomar,23,Male,Dr. Anil Sharma,"Kalavati Hospital, Delhi",U-Net - Tumor Segmentation,89%,,,51.97
